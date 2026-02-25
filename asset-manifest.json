@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/duo-app/static/css/main.e6c13ad2.css",
+    "main.js": "/duo-app/static/js/main.d41e34ba.js",
+    "static/js/453.06f6edad.chunk.js": "/duo-app/static/js/453.06f6edad.chunk.js",
+    "index.html": "/duo-app/index.html",
+    "main.e6c13ad2.css.map": "/duo-app/static/css/main.e6c13ad2.css.map",
+    "main.d41e34ba.js.map": "/duo-app/static/js/main.d41e34ba.js.map",
+    "453.06f6edad.chunk.js.map": "/duo-app/static/js/453.06f6edad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d41e34ba.js"
+  ]
+}
