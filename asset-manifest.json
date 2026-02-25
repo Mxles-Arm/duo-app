@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/duo-app/static/css/main.b59bcfb9.css",
-    "main.js": "/duo-app/static/js/main.46bd0e64.js",
+    "main.css": "/duo-app/static/css/main.45546bcf.css",
+    "main.js": "/duo-app/static/js/main.caeb99df.js",
+    "static/media/worm.png": "/duo-app/static/media/worm.0eb932fa33041cfb2b87.png",
+    "static/media/Vitamin.png": "/duo-app/static/media/Vitamin.f020684b44ef46ba4db0.png",
+    "static/media/Horse.png": "/duo-app/static/media/Horse.09f995e090f388bb48f1.png",
+    "static/media/Box.png": "/duo-app/static/media/Box.ab92999076a835ae8195.png",
+    "static/media/Door.png": "/duo-app/static/media/Door.8f6dd593a57307d5ff2e.png",
+    "static/media/Spy.png": "/duo-app/static/media/Spy.bd0e347679c81ba8c30d.png",
     "index.html": "/duo-app/index.html",
-    "main.b59bcfb9.css.map": "/duo-app/static/css/main.b59bcfb9.css.map",
-    "main.46bd0e64.js.map": "/duo-app/static/js/main.46bd0e64.js.map"
+    "main.45546bcf.css.map": "/duo-app/static/css/main.45546bcf.css.map",
+    "main.caeb99df.js.map": "/duo-app/static/js/main.caeb99df.js.map"
   },
   "entrypoints": [
-    "static/css/main.b59bcfb9.css",
-    "static/js/main.46bd0e64.js"
+    "static/css/main.45546bcf.css",
+    "static/js/main.caeb99df.js"
   ]
 }
