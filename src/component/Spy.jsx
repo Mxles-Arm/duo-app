@@ -1,3 +1,4 @@
+import spyImg from "../image/Spy.png";
 export default function Spy() {
   return (
     <section className="panel">
@@ -5,6 +6,8 @@ export default function Spy() {
         <div className="panel__title">🕵️ Spyware — Spy</div>
         <div className="panel__tag">Stealth Threat</div>
       </div>
+
+      <img src={spyImg} alt="Spyware" className="threat-image" />
 
       <div className="block">
         <h3>คืออะไร</h3>

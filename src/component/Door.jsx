@@ -1,3 +1,4 @@
+import doorImg from "../image/Door.png";
 export default function Door() {
   return (
     <section className="panel">
@@ -5,6 +6,13 @@ export default function Door() {
         <div className="panel__title">🚪 Backdoor — Door</div>
         <div className="panel__tag">Hidden Gate</div>
       </div>
+      {/* ✅ ใส่รูปตรงนี้ */}
+      <img
+        src={doorImg}
+        alt="Backdoor"
+        className="threat-image"
+      />
+
 
       <div className="block">
         <h3>คืออะไร</h3>

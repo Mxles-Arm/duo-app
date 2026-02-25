@@ -1,3 +1,4 @@
+import boxImg from "../image/Box.png";
 export default function Box() {
   return (
     <section className="panel">
@@ -5,6 +6,8 @@ export default function Box() {
         <div className="panel__title">📦 Ransomware — Box</div>
         <div className="panel__tag">Boss Threat</div>
       </div>
+
+      <img src={boxImg} alt="Box" className="threat-image" />
 
       <div className="block">
         <h3>คืออะไร</h3>

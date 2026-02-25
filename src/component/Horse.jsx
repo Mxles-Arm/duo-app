@@ -1,3 +1,4 @@
+import horseImg from "../image/Horse.png";
 export default function Horse() {
   return (
     <section className="panel">
@@ -5,6 +6,9 @@ export default function Horse() {
         <div className="panel__title">🐴 Trojan (โทรจัน) — Horse</div>
         <div className="panel__tag">Threat Class</div>
       </div>
+      {/* ✅ ใส่รูปตรงนี้ */}
+      <img src={horseImg} alt="Horse" className="threat-image" />
+
 
       <div className="block">
         <h3>คืออะไร</h3>

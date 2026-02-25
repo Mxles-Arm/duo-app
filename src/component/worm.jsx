@@ -1,3 +1,5 @@
+import worm from "../image/worm.png";
+
 export default function Worm() {
   return (
     <section className="panel">
@@ -5,6 +7,15 @@ export default function Worm() {
         <div className="panel__title">🐛 Worm (หนอน)</div>
         <div className="panel__tag">Threat Class</div>
       </div>
+
+ {/* ✅ ใส่รูปตรงนี้ */}
+      <img
+        src={worm}
+        alt="Worm"
+        className="threat-image"
+      />
+
+
 
       <div className="block">
         <h3>คืออะไร</h3>
